@@ -18,9 +18,8 @@ An interactive web app interface and architecture design for translating and dub
 
 ## 🚀 Live Demo
 Try the live interactive webpage here:
-👉 **[Launch AI Video Dubber Live Demo](https://YOUR_GITHUB_USERNAME.github.io/ai-video-dubber/)**
+👉 https://pr4b5dt.github.io/video-dubbing-by-using-ai/
 
-*(Replace `YOUR_GITHUB_USERNAME` above with your actual GitHub username)*
 
 ---
 
